@@ -1,0 +1,102 @@
+BOAMP_AVIS_NUM,D_04_01_Activiteprincipale_Pouvoiradjudicateur,D_04_01_01_Activiteprincipale_Pouvoiradjudicateur_DeforACTSERVADMPUBOrSANTE,D_04_01_01_01_Activiteprincipale_Pouvoiradjudicateur_DeforACTSERVADMPUBOrSANTE_Name,D_04_01_01_02_Activiteprincipale_Pouvoiradjudicateur_DeforACTSERVADMPUBOrSANTE_DeclaredType,D_04_01_01_03_Activiteprincipale_Pouvoiradjudicateur_DeforACTSERVADMPUBOrSANTE_Scope,D_04_01_01_04_Activiteprincipale_Pouvoiradjudicateur_DeforACTSERVADMPUBOrSANTE_Value,D_04_01_01_05_Activiteprincipale_Pouvoiradjudicateur_DeforACTSERVADMPUBOrSANTE_Nil,D_04_01_01_06_Activiteprincipale_Pouvoiradjudicateur_DeforACTSERVADMPUBOrSANTE_GlobalScope,D_04_01_01_07_Activiteprincipale_Pouvoiradjudicateur_deforACTSERVADMPUBOrSANTE_TypeSubstituted,D_04_02_Activiteprincipale_Entiteadjudicatrice,D_04_02_01_Activiteprincipale_Entiteadjudicatrice_ProdtransdistribgazorELECTRICITEOrPROSPEXTRACTPETROLEGAZ,D_04_02_01_01_Activiteprincipale_Entiteadjudicatrice_ProdtransdistribgazorELECTRICITEOrPROSPEXTRACTPETROLEGAZ_Name,D_04_02_01_02_Activiteprincipale_Entiteadjudicatrice_ProdtransdistribgazorELECTRICITEOrPROSPEXTRACTPETROLEGAZ_DeclaredType,D_04_02_01_03_Activiteprincipale_Entiteadjudicatrice_ProdtransdistribgazorELECTRICITEOrPROSPEXTRACTPETROLEGAZ_Scope,D_04_02_01_04_Activiteprincipale_Entiteadjudicatrice_ProdtransdistribgazorELECTRICITEOrPROSPEXTRACTPETROLEGAZ_Value,D_04_02_01_05_Activiteprincipale_Entiteadjudicatrice_ProdtransdistribgazorELECTRICITEOrPROSPEXTRACTPETROLEGAZ_Nil,D_04_02_01_06_Activiteprincipale_Entiteadjudicatrice_ProdtransdistribgazorELECTRICITEOrPROSPEXTRACTPETROLEGAZ_GlobalScope,D_04_02_01_07_Activiteprincipale_Entiteadjudicatrice_ProdtransdistribgazorELECTRICITEOrPROSPEXTRACTPETROLEGAZ_TypeSubstituted
+22-16701,True,CF_NIV_SUIV,DEF,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<DEF xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16706,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16707,True,CF_NIV_SUIV,ENVIRONNEMENT,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ENVIRONNEMENT xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16732,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16733,True,CF_NIV_SUIV,DEF,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<DEF xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16733,True,CF_NIV_SUIV,SANTE,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<SANTE xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16737,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16753,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16774,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16779,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16784,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16797,True,CF_NIV_SUIV,,,,,False,False,False,CF_NIV_SUIV,CF_NIV_SUIV,EAU,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumEntiteAdjudicatrice,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<EAU xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True
+22-16798,True,CF_NIV_SUIV,SANTE,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<SANTE xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16836,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16839,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16854,True,CF_NIV_SUIV,AUTRE,java.lang.String,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,Enseignement supérieur et Recherche.,False,False,False,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16864,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16874,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16884,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16918,True,CF_NIV_SUIV,AUTRE,java.lang.String,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,Distribution publique d'électricité,False,False,False,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16934,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16936,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16938,True,CF_NIV_SUIV,AUTRE,java.lang.String,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,collectivité territoriale,False,False,False,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16940,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16949,True,CF_NIV_SUIV,AUTRE,java.lang.String,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,Distribution publique d'électricité,False,False,False,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16953,True,CF_NIV_SUIV,EDUCATION,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<EDUCATION xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16956,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-16971,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17006,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17018,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17020,True,CF_NIV_SUIV,AUTRE,java.lang.String,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,Energies,False,False,False,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17024,True,CF_NIV_SUIV,LOG_DEV_COL,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<LOG_DEV_COL xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17027,True,CF_NIV_SUIV,LOG_DEV_COL,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<LOG_DEV_COL xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17028,True,CF_NIV_SUIV,LOG_DEV_COL,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<LOG_DEV_COL xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17034,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17063,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17066,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17082,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17087,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17088,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17135,True,CF_NIV_SUIV,AUTRE,java.lang.String,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"Présentation, production et diffusion des oeuvres du patrimoine lyrique et chorégraphique",False,False,False,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17219,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17220,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17233,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17308,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17315,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17345,True,CF_NIV_SUIV,SANTE,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<SANTE xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17352,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17360,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17376,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17378,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17422,True,CF_NIV_SUIV,ACT_SERV_ADM_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ACT_SERV_ADM_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17422,True,CF_NIV_SUIV,ORDRE_SEC_PUB,java.lang.Object,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumAdjudication,"<?xml version=""1.0"" encoding=""UTF-16""?>
+<ORDRE_SEC_PUB xmlns:xsi=""http://www.w3.org/2001/XMLSchema-instance""/>",False,False,True,CF_NIV_SUIV,CF_NIV_SUIV,,,,,,False,False
+22-17442,True,CF_NIV_SUIV,,,,,False,False,False,CF_NIV_SUIV,CF_NIV_SUIV,AUTRE,java.lang.String,fr.gouv.dila.opendata.api.model.Boamp.Boamp_v230.EnumEntiteAdjudicatrice,Port maritime,False,False,False

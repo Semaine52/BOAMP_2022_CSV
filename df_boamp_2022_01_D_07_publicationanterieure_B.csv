@@ -1,7 +1,4 @@
 BOAMP_AVIS_NUM,D_07_01_Publicationanterieure_Oui,D_07_02_Publicationanterieure_Referencepublication,D_07_02_01_Publicationanterieure_Referencepublication_Publicationpapier,D_07_02_02_Publicationanterieure_Referencepublication_Publicationelectronique,D_07_02_03_Publicationanterieure_Referencepublication_Publicationjoue,D_07_02_03_01_Publicationanterieure_Referencepublication_Publicationjoue_Nature,D_07_02_03_01_01_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avispreinformation,D_07_02_03_01_02_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avisperiodique,D_07_02_03_01_03_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avissystemqualif,D_07_02_03_01_04_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avisprofilacheteur,D_07_02_03_01_05_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avisexantevolontaire,D_07_02_03_01_06_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avismarche,D_07_02_03_01_07_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avissad,D_07_02_03_01_08_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avisconcours,D_07_02_03_01_09_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Avisattribution,D_07_02_03_01_10_Publicationanterieure_Referencepublication_Publicationjoue_Nature_Autrespublcationsanterieures,D_07_02_03_02_Publicationanterieure_Referencepublication_Publicationjoue_Annee,D_07_02_03_03_Publicationanterieure_Referencepublication_Publicationjoue_Numparution,D_07_02_03_04_Publicationanterieure_Referencepublication_Publicationjoue_Numannonce,D_07_02_03_05_Publicationanterieure_Referencepublication_Publicationjoue_Datepublication,D_07_03_Publicationanterieure_Non
-21-171469,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2021.0,194.0,505635.0,2021-10-05 22:00:00,False
-21-171472,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2021.0,57.0,145134.0,2021-03-22 23:00:00,False
-21-171473,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2021.0,177.0,460803.0,2021-09-12 22:00:00,False
 21-171476,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2021.0,148.0,394208.0,2021-08-02 22:00:00,False
 21-171488,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2021.0,146.0,389374.0,2021-07-29 22:00:00,False
 21-171490,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2021.0,206.0,538290.0,2021-10-21 22:00:00,False
@@ -81,12 +78,18 @@ BOAMP_AVIS_NUM,D_07_01_Publicationanterieure_Oui,D_07_02_Publicationanterieure_R
 21-171791,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,2021.0,119.0,314791.0,2021-06-21 22:00:00,False
 21-37787,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,True,,,False,False,2020.0,229.0,564393.0,2020-11-23 23:00:00,False
 22-1052,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+22-11022,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+22-13037,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+22-13085,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+22-14554,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
+22-14666,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
 22-1866,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
 22-2654,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
 22-288,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
 22-4057,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
 22-4100,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
 22-4514,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+22-4760,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
 22-4789,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
 22-501,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
 22-6295,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
@@ -95,6 +98,7 @@ BOAMP_AVIS_NUM,D_07_01_Publicationanterieure_Oui,D_07_02_Publicationanterieure_R
 22-7500,True,CF_NIV_SUIV,[],,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,True,2021.0,132.0,352278.0,2021-07-11 22:00:00,False
 22-7565,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
 22-789,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
+22-8536,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
 22-8685,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
 22-882,True,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,False
 22-8981,False,CF_NIV_SUIV,,,CF_NIV_SUIV,CF_NIV_SUIV,False,False,,False,False,False,,,False,False,,,,,True
